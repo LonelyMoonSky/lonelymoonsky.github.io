@@ -14,6 +14,7 @@
 因为在这个项目中，我用到了**Vuex**的技术，在这个项目里，组件需要监听**Vuex**里面**State**的数据改变，只要数据一改变，组件就需要执行**methods**里面的定义好的函数，但是我还是第一次遇到这种情况，我在网上查找了很多资料，才把监听这个事情搞定。  
 其实并不复杂，但是我开始写代码的时候，思维逻辑有时候会莫名奇妙的被困住，但是最终还是解决了这个问题！
 ## 项目展示
+![image](https://github.com/LonelyMoonSky/math-project/blob/master/public/1.PNG)
 
 ## Project setup
 ```
